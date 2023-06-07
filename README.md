@@ -1,2 +1,1 @@
-I ama software engineer
-0x03-git
+I am a software engineer
